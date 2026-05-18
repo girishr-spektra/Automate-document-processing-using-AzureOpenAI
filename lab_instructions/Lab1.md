@@ -179,7 +179,7 @@ In this task, you will be using Azure Functions to process documents that are up
 
    ![select-models](images/vs-code-1.png)
 
-   >**Note:** If you see any pop up , close it.
+   >**Note:** If any pop-up appears, **Continue without signing in** and close the pop-up window.
 
 1. In Visual Studio Code, navigate to the **File (1)** from the top menu bar and select **Open Folder... (2)**.
 
@@ -618,9 +618,9 @@ In this task, you will connect Azure AI Search to Blob Storage to index analyzed
 1. Provide the following values and click on **Next(6)**
    
       - Subscription: Select the **Default subscription (1)**.
-      - Storage account **(2)**: storage <inject key="Deployment ID" enableCopy="false"/> 
-      - Blob container: **output(3)**
-      - Blob storage: **input(4)**
+      - Storage account: storage <inject key="Deployment ID" enableCopy="false"/> **(2)** 
+      - Blob container: **output (3)**
+      - Blob storage: **input (4)**
       - Parsing Mode: **JSON (5)**
 
         ![](images2/L1T5S6.png)
