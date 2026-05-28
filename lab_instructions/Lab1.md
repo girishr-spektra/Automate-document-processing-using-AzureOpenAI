@@ -635,7 +635,7 @@ In this task, you will connect Azure AI Search to Blob Storage to index analyzed
 
 1. Ensure that all fields are marked as **Retrievable (1)** and **Searchable (2)** and click on **Save (3).**
 
-      ![.](images/L1T5S8.png)
+      ![.](images/doc-proc-gt-rt-g9.png)
 
 1. On the **Preview Mappings** page, expand **analyzeResult (1)** > **documents (2)** > **fields (3)**, then expand **Address (4)** and check the configure fields for **type, valueString, and content (5)**; do the same for **Organization (5)** fields **type, valueString, and content (7)** .
 
